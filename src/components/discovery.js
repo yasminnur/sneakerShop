@@ -4,10 +4,10 @@ export default function Discovery() {
       <div className="container">
         <div className="flex flex-wrap px-10">
           <div className="w-full md:w-1/2 pr-3 lg:pr-20 md:self-center">
-            <h1 className="uppercase text-gray-700 font-bold text-3xl lg:text-5xl">
+            <h1 className="uppercase text-abu font-bold text-3xl lg:text-5xl">
               discovery our top <span className="text-secondary">shoes</span>{" "}
             </h1>
-            <p className="text-slate-800 text-sm mt-3 leading-5 lg:text-xl">
+            <p className="text-abu text-sm mt-3 leading-5 lg:text-xl">
               Egyptians began making shoes from woven reeds as early as 1550 BC.
               Worn as overshoes, they were boat-shaped and had straps
               constructed of long.

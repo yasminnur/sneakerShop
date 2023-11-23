@@ -1,0 +1,35 @@
+[
+    {
+        "img":"./assets/terrexTwo.jpg",
+        "name": "terrex two"
+    },
+    {
+        "img":"./assets/hitam.jpeg",
+        "name": "ultraboost 22"
+    }, 
+    {
+        "img":"./assets/ultraboost2.jpg",
+        "name": "ultraboost-21"
+    },
+    {
+        "img":"./assets/ultraboost-23.jpg",
+        "name": "ultraboost-23"
+    },
+    {
+        "img":"./assets/4d.jpg",
+        "name": "4d-fusio-shoes"
+    },
+    {
+        "img":"./assets/hijau.jpeg",
+        "name": "nmd_r1-shoes"
+    }
+    ,
+    {
+        "img":"./assets/stan.png",
+        "name": "stan-smith-shoes"
+    },
+    {
+        "img":"./assets/multix.jpg",
+        "name": "multix-shoes"
+    }
+]

@@ -6,11 +6,11 @@ export default function Beranda() {
       <div className="container">
         <div className="flex flex-wrap px-10">
           <div className="w-full md:w-1/2">
-            <h1 className="uppercase text-gray-700 font-bold text-3xl lg:text-5xl">
+            <h1 className="uppercase text-abu font-bold text-3xl lg:text-5xl">
               <span className="text-secondary">Shoes </span>that takes you to
               the next level
             </h1>
-            <p className="text-slate-800 text-sm mt-3 leading-5 lg:text-xl">
+            <p className="text-abu text-sm mt-3 leading-5 lg:text-xl">
               Shoes Pure Boost. As the most comfortable shoes in nthe world for
               2020, you really cannot go wrong when you put the Adidas Pur Boost
               on your feet.
