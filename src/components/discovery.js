@@ -2,9 +2,9 @@ export default function Discovery() {
   return (
     <>
       <div className="container">
-        <div className="flex flex-wrap px-10">
+        <div className="flex flex-wrap px-14">
           <div className="w-full md:w-1/2 pr-3 lg:pr-20 md:self-center">
-            <h1 className="uppercase text-abu font-bold text-3xl lg:text-5xl">
+            <h1 className="uppercase text-abu font-bold text-3xl lg:text-4xl">
               discovery our top <span className="text-secondary">shoes</span>{" "}
             </h1>
             <p className="text-abu text-sm mt-3 leading-5 lg:text-xl">

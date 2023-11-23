@@ -9,13 +9,13 @@ export default function Shoes() {
   return (
     <>
       <div className="container">
-        <div className="flex flex-wrap px-10">
+        <div className="flex flex-wrap px-14">
           <div className="w-full">
-            <h1 className="uppercase text-abu font-bold text-3xl lg:text-5xl">
-                Our Top <span className="text-secondary md:ml-4">Shoes</span>
+            <h1 className="uppercase text-abu font-bold text-3xl lg:text-4xl">
+                Our Top <span className="text-secondary ">Shoes</span>
             </h1>
                       {/* CARD */}
-            <div className="flex flex-wrap justify-center mx-auto gap-x-8">
+            <div className="flex flex-wrap justify-center md:justify-start mx-auto gap-x-8 md:gap-x-20 lg:gap-x-6">
               {jsonData.map((item, index) => (
                 <a key={index} href="#" className="group">
                   <div className="relative h-64 w-52 mt-10 shadow-2xl">

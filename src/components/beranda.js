@@ -4,9 +4,9 @@ export default function Beranda() {
   return (
     <>
       <div className="container">
-        <div className="flex flex-wrap px-10">
+        <div className="flex flex-wrap px-14">
           <div className="w-full md:w-1/2">
-            <h1 className="uppercase text-abu font-bold text-3xl lg:text-5xl">
+            <h1 className="uppercase text-abu font-bold text-3xl lg:text-4xl">
               <span className="text-secondary">Shoes </span>that takes you to
               the next level
             </h1>

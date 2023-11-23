@@ -2,9 +2,9 @@ export default function Benefit() {
   return (
     <>
       <div className="container">
-        <div className="flex flex-wrap px-10">
+        <div className="flex flex-wrap px-14">
           <div className="w-full mt-10 md:my-auto md:w-1/2">
-          <h1 className="uppercase text-abu font-bold text-3xl lg:text-5xl">
+          <h1 className="uppercase text-abu font-bold text-3xl lg:text-4xl">
             3 benefits you get from our{" "}
             <span className="text-secondary">Shoes</span>
           </h1>
@@ -32,7 +32,7 @@ export default function Benefit() {
                     <h1 className=" text-putih text-xl font-bold">1</h1>
                   </div>
                 </div>
-                <div className="relative h-44 md:h-24 w-1/2 border-r border-secondary"></div>
+                <div className="relative h-60 md:h-24 w-1/2 border-r border-secondary"></div>
               </div>
               <div>
                 <h1 className="font-semibold">Benefits of Comfortable Shoes</h1>
@@ -50,7 +50,7 @@ export default function Benefit() {
                     <h1 className=" text-putih text-xl font-bold">2</h1>
                   </div>
                 </div>
-                <div className="relative h-44 md:h-24 w-1/2 border-r border-secondary"></div>
+                <div className="relative h-60 md:h-24 w-1/2 border-r border-secondary"></div>
               </div>
               <div>
                 <h1 className="font-semibold">Benefits of Comfortable Shoes</h1>
